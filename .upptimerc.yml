@@ -1,8 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ItzAMASO
+repo: CTF-DISCORD-BOT
 
 sites:
+
+  - name: My Discord Bot
+    url: https://osamaalawneh222.FoolhardyCoarseTab.repl.co
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -18,10 +21,11 @@ sites:
     ipv6: true
 
 status-website:
+
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  
+  baseUrl: /CTF-DISCORD-BOT
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
